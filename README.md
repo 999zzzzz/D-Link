@@ -2,6 +2,7 @@
 
 ## Vulnerability Description
 Summary: D-Link is vulnerable to an unauthorized access exploit, allowing attackers to retrieve sensitive information such as device MAC address, IP address, routing details, device region, version number, etc., by specifying a command,Affecting over 100,000 devices on the Internet.
+![图片](https://github.com/999zzzzz/D-Link/assets/156400365/9d9b7217-0c73-480b-a2f0-87d9d8c1d737)
 
 ## Affected Versions
 Affected software versions: DIR-825ACG1、DIR-841、DIR-1260、DIR-822、DIR-X1530、DIR-825、DIR-615、DIR-842、DIR-853、DIR-1210、DIR-806A、DIR-815、DSL-245GR、DSL-G2452GR、DIR-878、DIR-825ACF、DIR-615T、DIR-300、DIR-842S、DIR-815S、DSL-2640U、DIR-2150、DWR-921、DIR-615S、DIR-620、DVG-5402G、DIR-882、DWM-312W、DIR-815/AC、DSL-224、DWM-321、DIR-X1860、DAP-1360、DIR-820、DIR-843、DVG-5402G/GFRU、DWR-953、DVG-N5402G/IL、DIR-825AC、DIR-620S、DVG-N5402G、Good Line Router v2、DSL-2750U、DIR-615GF、DIR-816
